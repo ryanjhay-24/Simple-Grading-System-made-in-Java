@@ -5,7 +5,7 @@ A simple Java console application to collect student names, student IDs, and gra
 ## How it works
 
 1. `input.java` prompts the user for the number of students, then reads each student's name, ID, and grade.
-2. `CalculationandIDSearcher.java` evaluates each student's grade and marks whether they passed.
+2. `Calculation.java` evaluates each student's grade and marks whether they passed.
 3. `Output.java` displays the student information with name, ID, grade, and pass/fail status.
 4. `Main.java` connects the steps and runs the application.
 
